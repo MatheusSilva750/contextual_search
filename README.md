@@ -8,4 +8,4 @@ docker-compose up
 
 rodar populator: python3 dataset_populator.py
 
-rodar agente: python3 seacher_agenty.py "busca"
+rodar agente: python3 seacher_agent.py "busca"
